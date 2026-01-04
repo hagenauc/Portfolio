@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my portfolio!
+Welcome to my Portfolio!
 In here you will find the following projects in chronological reverse order:
 - Master Thesis: Walk on Subdomains; A Shape Restart Point Evaluation using Machine Learning (WOSD Restart Point Evaluation)
 - Literature Review on SQL Injection in regards of AI (Conference Paper, SRSD SQLI and ML)
